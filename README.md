@@ -7,7 +7,7 @@ Project based in R which deals with covid data analysis. The goal of this projec
   <img 
     width="544"
     height="128"
-    src="https://github.com/akhilvreddy/Wavefunction-Analysis/blob/main/version1.png"
+    src="https://github.com/akhilvreddy/CovidDataAnalysis/blob/main/CovidProject/uscovidgraph.png"
   >
   <img 
     width="544"
