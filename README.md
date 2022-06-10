@@ -24,7 +24,13 @@ Project based in R which deals with covid data analysis. The goal of this projec
 A lot of people doubted the efficacy of the covid booster shot when it first was introduced (around December 2021) due to the on-going wave at the time due to the omicron variant. The goal of this project is to prove whether the booster shot did help people from being infected less and reducing deaths. If the null hypothesis comes back as false, we aim to model what would happen with no vaccine booster at all. The bulk of this project was done in R, with some parts requiring other software. 
 
 ## Setup 
+For this project the data we used was from the New Jersey Department of Health. It was lumped together in a large csv file. I tailored this to the data we need in a new csv file, titled __. I then put this file into R studio and did the analysis.
+
+There were some data points that were complete outliers and I was sure they were going to skew the data so I wanted to throw them out. 
+
 
 ## Getting Started
+Having the data in R studio, we started by making basic statistical plots in order to see if our data was normal. I also wanted to throw out some outliers (on both sides) to make the data better suited for analysis. 
+
 
 ### Plots
