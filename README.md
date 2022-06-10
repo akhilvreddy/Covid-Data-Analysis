@@ -5,12 +5,12 @@ Project based in R which deals with covid data analysis. The goal of this projec
 
 <p align="center">
   <img 
-    width="503.05"
+    width="503"
     height="200"
     src="https://github.com/akhilvreddy/CovidDataAnalysis/blob/main/CovidProject/uscovidgraph.png"
   >
   <img 
-    width="503.05"
+    width="503"
     height="200"
     src="https://github.com/akhilvreddy/CovidDataAnalysis/blob/main/CovidProject/uscoviddeathgraph.png"
   >
