@@ -21,7 +21,7 @@ Project based in R which deals with covid data analysis. The goal of this projec
 > The gray graph represents the deaths chart due to Coronavirus cases in the US. As you can notice, though the cases were way higher in Winter 2022 than any other wave, deaths were not as high. We search for the reasoning of this in our project.
 
 ## Abstract
-A lot of people doubted the efficacy of the covid booster shot when it first was introduced (around December 2021) due to the on-going wave at the time due to the omicron variant. The goal of this project is to prove whether the booster shot did help people from being infected less and reducing deaths. If the null hypothesis comes back as false, we aim to model what would happen with no vaccine booster at all. The bulk of this project was done in R, with some parts requiring other software. 
+A lot of people doubted the efficacy of the covid booster shot when it first was introduced (around December 2021) due to the on-going wave at the time due to the omicron variant. The goal of this project is to prove whether the booster shot did help people from being infected less and reducing deaths. If correlation is proven, we aim to model what would happen with no vaccine booster at all. The bulk of this project was done in _R_, with some parts requiring other software like _Mathematica_.
 
 ## Setup 
 For this project the data we used was from the New Jersey Department of Health. It was lumped together in a large csv file. I tailored this to the data we need in a new csv file, titled __. I then put this file into R studio and did the analysis.
