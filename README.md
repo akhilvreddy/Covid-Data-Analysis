@@ -27,9 +27,12 @@ A lot of people doubted the efficacy of the covid booster shot when it first was
 For this project the data we used was from the [Covid Tracking Project](https://covidtracking.com/data/download). The data of all the states to date was lumped together in a large csv file. I tailored this to the data we need in two new csv files, titled TotalNJData.csv and TotalNJDataWinter.csv. The first file was the complete data from the beginning of the pandemic and the second file was the winter data, which I put into R studio and did the analysis.
 
 ## Getting Started
-
-
 Having the data in R studio, we started by making basic statistical plots in order to see if our data was normal. I also wanted to throw out some outliers (on both sides) to make the data better suited for analysis. 
 
+The way I did this was by partioning the data into four parts and getting excel to plot on a scatterplot. The partitions were: 
+* Nov 1 - Dec 8
+* Dec 9 - Jan 15
+* Jan 16 - Feb 23
+* Feb 24 - Mar 31
 
 ### Plots
