@@ -47,3 +47,15 @@ I removed one data point out of each of the partitions. They were:
 * Mar 31 [Partition 4]
 
 The data should definitely have more correaltion now that some evident outliers are gone (on the positive & negative side). 
+
+## Finding Correlation
+
+The way we are going to find correlation of the booster is by comparing main characteristics of the disease (like rate of infection, positivity rate, etc) from previous waves to the Winter 2022 wave. To do comparisons, our data needs to be fair to compare. For example, it doesn't make sense to compare infections from April 2020 to infections from October 2021. This is mainly because on average, people were meeting and interacting in person much less during the early stages in the pandemic compared to the latter half of 2021. 
+
+This a very important measure to keep track of if we want all of our data to have a level comparison field. The main way we can level out our data is by multiplying the mobility rate with the new cases. 
+
+// insert graph about mobility rate 
+
+// talk about how the mobility rate is negative increasing 
+
+I added these mobility rates to the main csv file and also have a column which is the product of the new cases with the mobility rate at that value. 
