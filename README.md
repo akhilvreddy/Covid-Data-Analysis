@@ -30,9 +30,11 @@ For this project the data we used was from the [Covid Tracking Project](https://
 Having the data in R studio, we started by making basic statistical plots in order to see if our data was normal. I also wanted to throw out some outliers (on both sides) to make the data better suited for analysis. 
 
 The way I did this was by partioning the data into four parts and getting excel to plot on a scatterplot. The partitions were: 
-* Nov 1 - Dec 8
-* Dec 9 - Jan 15
-* Jan 16 - Feb 23
-* Feb 24 - Mar 31
+* Nov 1 - Dec 8      [Partition 1]
+* Dec 9 - Jan 15     [Partition 2]
+* Jan 16 - Feb 23    [Partition 3]
+* Feb 24 - Mar 31    [Partition 4]
 
 ### Plots
+
+I made these plots straight out of excel, by choosing the specific rows that correspond to a partition. 
