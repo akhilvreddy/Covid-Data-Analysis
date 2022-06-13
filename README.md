@@ -41,9 +41,9 @@ I made these plots straight out of excel, by choosing the specific rows that cor
 
 
 I removed one data point out of each of the partitions. They were: 
-* Dec 5
-* Jan 15
-* Jan 22
-* Mar 31
+* Dec 5 [Partition 1]
+* Jan 15 [Partition 2]
+* Jan 22 [Partition 3]
+* Mar 31 [Partition 4]
 
 The data should definitely have more correaltion now that some evident outliers are gone (on the positive & negative side). 
