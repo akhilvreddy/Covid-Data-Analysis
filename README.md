@@ -38,3 +38,12 @@ The way I did this was by partioning the data into four parts and getting excel 
 ### Plots
 
 I made these plots straight out of excel, by choosing the specific rows that correspond to a partition. 
+
+
+I removed one data point out of each of the partitions. They were: 
+* Dec 5
+* Jan 15
+* Jan 22
+* Mar 31
+
+The data should definitely have more correaltion now that some evident outliers are gone (on the positive & negative side). 
